@@ -2,7 +2,7 @@
  * HashTable class for storing key-value pairs with collision resolution using quadratic probing.
  * 
  * @author Joseph Kabesha
- * @author
+ * @author Isaiah Ayres
  */
 public class HashTable {
     /** Default capacity of the hash table. */
